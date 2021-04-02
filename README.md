@@ -1,10 +1,11 @@
 # PNU-3991-AR
 
 
-### مهسا عینی 
+### آناشه میرزاخانیان 
  
 ---
--  [PNU_3991_AR](https://github.com/mahsaeini99/PNU-3991-AR.git)
+-  [PNU_3991_AR](https://github.com/Anasheh-Mirzakhanian/PNU_3991_AR-1)
+-  -  [PNU_3991_AR](https://github.com/mahsaeini99/PNU-3991-AR.git)
 - [حساب گیت هاب](https://github.com/mahsaeini99)
 
 - [ resume](https://mahsaeini99.github.io/resume/)
