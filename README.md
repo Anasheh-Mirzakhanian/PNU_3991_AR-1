@@ -7,7 +7,7 @@
 -  [PNU_3991_AR](https://github.com/Anasheh-Mirzakhanian/PNU_3991_AR-1)
 - [حساب گیت هاب](https://github.com/Anasheh-Mirzakhanian)
 
-- [ resume](https://mahsaeini99.github.io/resume/)
+- [ resume](https://Anasheh-Mirzakhanian/Resume/)
 - [SOP](https://mahsaeini99.github.io/sop/)
 - [JavaScript](https://github.com/mahsaeini99/-h-h/blob/main/JavaScript_certificate_pdfjava.pdf)
 ------------------
