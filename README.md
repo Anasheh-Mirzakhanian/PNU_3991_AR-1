@@ -9,7 +9,7 @@
 
 - [ resume](https://Anasheh-Mirzakhanian.github.io/Resume/)
 - [SOP](https://Anasheh-Mirzakhanian.github.io/SOP/)
-- [JavaScript](https://github.com/mahsaeini99/-h-h/blob/main/JavaScript_certificate_pdfjava.pdf)
+- [JavaScript](https://github.com/Anasheh-Mirzakhanian/JS-Certification/blob/main/certificate.pdf)
 ------------------
 ##  1399/2020
      
