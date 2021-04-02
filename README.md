@@ -8,7 +8,7 @@
 - [حساب گیت هاب](https://github.com/Anasheh-Mirzakhanian)
 
 - [ resume](https://Anasheh-Mirzakhanian.github.io/Resume/)
-- [SOP](https://mahsaeini99.github.io/sop/)
+- [SOP](https://Anasheh-Mirzakhanian.github.io/SOP/)
 - [JavaScript](https://github.com/mahsaeini99/-h-h/blob/main/JavaScript_certificate_pdfjava.pdf)
 ------------------
 ##  1399/2020
