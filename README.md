@@ -5,8 +5,7 @@
  
 ---
 -  [PNU_3991_AR](https://github.com/Anasheh-Mirzakhanian/PNU_3991_AR-1)
--  -  [PNU_3991_AR](https://github.com/mahsaeini99/PNU-3991-AR.git)
-- [حساب گیت هاب](https://github.com/mahsaeini99)
+- [حساب گیت هاب](https://github.com/Anasheh-Mirzakhanian)
 
 - [ resume](https://mahsaeini99.github.io/resume/)
 - [SOP](https://mahsaeini99.github.io/sop/)
